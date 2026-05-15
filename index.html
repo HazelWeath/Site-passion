@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Univers — Galerie Personnelle</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;900&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Grain texture overlay -->
+    <div class="grain"></div>
+
+    <!-- Navigation persistante -->
+    <nav class="topnav" id="topnav">
+        <button class="nav-back hidden" id="nav-back">← Retour</button>
+        <span class="nav-title" id="nav-title">Mon Univers</span>
+        <button class="nav-home" id="nav-home">⌂ Accueil</button>
+    </nav>
+
+    <!-- Zone principale -->
+    <div id="app"></div>
+
+    <!-- Lecteur audio persistant (en bas) -->
+    <div class="audio-bar hidden" id="audio-bar">
+        <div class="audio-disc" id="audio-disc">♪</div>
+        <div class="audio-info">
+            <span class="audio-label">Ambiance musicale</span>
+            <span class="audio-track-name" id="audio-track-name">—</span>
+        </div>
+        <div class="audio-controls">
+            <button class="audio-btn" id="audio-toggle" title="Lecture / Pause">▶</button>
+            <div class="audio-progress-wrap">
+                <div class="audio-progress-bar">
+                    <div class="audio-progress-fill" id="audio-fill"></div>
+                </div>
+                <div class="audio-time" id="audio-time">0:00</div>
+            </div>
+            <button class="audio-close" id="audio-close" title="Fermer">✕</button>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

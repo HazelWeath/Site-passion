@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "titre": "Resident Evil",
+    "categories": ["horreur", "jeux-video"],
+    "tagline": "Survie. Horreur. Adrénaline.",
+    "description": "Un pionnier du survival-horror où la survie dépend de votre gestion des ressources.",
+    "description_longue": "Resident Evil est bien plus qu'un jeu vidéo — c'est une expérience fondatrice du genre survival-horror. Dès les premières minutes dans le manoir Spencer, l'atmosphère oppressante, les sons ambiants et la gestion tendue des ressources installent une tension constante.\n\nChaque couloir cache une menace, chaque balle compte. La série m'a appris ce que signifie vraiment avoir peur devant un écran, et les remakes modernes prouvent que cette formule reste intemporelle.\n\nUn univers que je reviens explorer encore et encore, pour ses personnages, son lore dense et ses moments de pure terreur.",
+    "image": "https://placehold.co/1200x700/1a0000/c0392b?text=Resident+Evil",
+    "galerie": [
+      "https://placehold.co/800x500/1a0000/c0392b?text=RE+Manoir",
+      "https://placehold.co/800x500/2d0505/e74c3c?text=RE+Zombies",
+      "https://placehold.co/800x500/0d0000/c0392b?text=RE+Boss"
+    ],
+    "annee": 1996,
+    "genre": "Survival-Horror",
+    "studio": "Capcom",
+    "plateforme": "PC / PlayStation / Xbox",
+    "note": 5,
+    "musique": "assets/audio/re_theme.mp3",
+    "musique_titre": "Save Room Theme — RE2"
+  },
+  {
+    "id": 2,
+    "titre": "Conjuring",
+    "categories": ["horreur", "film"],
+    "tagline": "Basé sur des faits réels. Impossible à oublier.",
+    "description": "Les dossiers Warren relatent des faits paranormaux terrifiants basés sur des événements réels.",
+    "description_longue": "Conjuring est selon moi le meilleur film d'horreur de ces vingt dernières années. James Wan maîtrise l'art de la tension comme peu de réalisateurs — il ne cherche pas à surprendre, il installe une peur sourde, organique, qui monte lentement jusqu'à l'insupportable.\n\nCe qui me fascine dans cette saga, c'est l'ancrage dans le réel. Les dossiers Warren sont vrais, documentés, et cela change complètement la façon dont on regarde chaque scène. On ne regarde plus un film, on assiste à quelque chose.\n\nLa scène du cache-cache reste pour moi l'une des plus efficaces de tout le cinéma d'horreur. Simple, sans effets, juste de la mise en scène pure.",
+    "image": "https://placehold.co/1200x700/0d0d00/c9a84c?text=Conjuring",
+    "galerie": [
+      "https://placehold.co/800x500/1a1400/c9a84c?text=Conjuring+Maison",
+      "https://placehold.co/800x500/0d0d00/d4ac0d?text=Conjuring+Annabelle"
+    ],
+    "annee": 2013,
+    "genre": "Horreur / Paranormal",
+    "studio": "Warner Bros.",
+    "auteur": "James Wan",
+    "note": 5,
+    "musique": "assets/audio/conjuring.mp3",
+    "musique_titre": "Annabelle's Theme"
+  },
+  {
+    "id": 3,
+    "titre": "Cuphead",
+    "categories": ["jeux-video"],
+    "tagline": "Art des années 30. Difficulté de l'enfer.",
+    "description": "Un jeu d'action frénétique inspiré des dessins animés des années 30, aussi beau que brutal.",
+    "description_longue": "Cuphead est une œuvre d'art autant qu'un jeu vidéo. Chaque pixel est dessiné à la main, chaque animation reproduit fidèlement le style Fleischer des années 1930 — ce travail artisanal est proprement hallucinant quand on sait ce que ça représente en termes d'effort.\n\nMais derrière cette apparence douce et colorée se cache un jeu d'une difficulté redoutable. Chaque boss est un puzzle rythmique qui demande patience, observation et précision. La satisfaction de terminer un boss après 40 tentatives n'a pas d'équivalent.\n\nLa bande-son jazz big band est à elle seule une raison de jouer. On se sent projeté dans un cartoon des années 30, et c'est absolument magique.",
+    "image": "https://placehold.co/1200x700/001a2e/2980b9?text=Cuphead",
+    "galerie": [
+      "https://placehold.co/800x500/00111e/2980b9?text=Cuphead+Boss",
+      "https://placehold.co/800x500/001a2e/3498db?text=Cuphead+World"
+    ],
+    "annee": 2017,
+    "genre": "Run & Gun / Boss Rush",
+    "studio": "Studio MDHR",
+    "plateforme": "PC / Nintendo Switch / Xbox",
+    "note": 5,
+    "musique": "assets/audio/cuphead.mp3",
+    "musique_titre": "Floral Fury"
+  },
+  {
+    "id": 4,
+    "titre": "Saw",
+    "categories": ["horreur", "film"],
+    "tagline": "Veux-tu jouer à un jeu ?",
+    "description": "Une franchise de torture mentale qui a redéfini l'horreur psychologique au cinéma.",
+    "description_longue": "Saw est une saga à part dans l'univers de l'horreur. Plus qu'un simple film gore, le premier opus est un véritable thriller psychologique — deux hommes enchaînés dans une salle, un cadavre entre eux, et une horloge qui tourne. La mise en scène est pauvre, le budget ridicule, et pourtant l'impact est total.\n\nCe qui me plaît dans Saw, c'est l'intelligence des pièges et la mécanique narrative. Chaque film est un puzzle dont les pièces s'emboîtent avec les épisodes précédents. C'est une construction scénaristique unique dans le genre.\n\nLe personnage de John Kramer (Jigsaw) est l'un des antagonistes les plus fascinants du cinéma d'horreur — pas un monstre, mais un homme avec une philosophie tordue et une certaine cohérence interne.",
+    "image": "https://placehold.co/1200x700/0a0a00/c0392b?text=Saw",
+    "galerie": [
+      "https://placehold.co/800x500/0d0000/c0392b?text=Saw+Piege",
+      "https://placehold.co/800x500/1a0000/e74c3c?text=Saw+Jigsaw"
+    ],
+    "annee": 2004,
+    "genre": "Horreur / Thriller",
+    "studio": "Lionsgate",
+    "auteur": "James Wan",
+    "note": 4,
+    "musique": "assets/audio/saw.mp3",
+    "musique_titre": "Hello Zepp"
+  },
+  {
+    "id": 5,
+    "titre": "Dark Souls",
+    "categories": ["jeux-video"],
+    "tagline": "Mourir. Apprendre. Recommencer. Vaincre.",
+    "description": "L'action-RPG qui redéfinit le mot défi et récompense la persévérance comme aucun autre.",
+    "description_longue": "Dark Souls n'est pas un jeu, c'est une philosophie. FromSoftware a créé quelque chose d'unique : un monde qui ne vous prend pas par la main, qui ne vous explique rien, et qui attend que vous fassiez l'effort de le comprendre.\n\nChaque mort est un enseignement. Chaque boss vaincu est une victoire personnelle, acquise à la sueur du front. On ne progresse pas par chance dans Dark Souls, on progresse parce qu'on a appris, mémorisé, adapté.\n\nL'univers en lui-même est une merveille de game design — interconnecté, cohérent, mystérieux. Le lore se découvre en fragment à travers les descriptions d'objets et les dialogues cryptiques. Une œuvre dense et unique.",
+    "image": "https://placehold.co/1200x700/0d0d0d/777?text=Dark+Souls",
+    "galerie": [
+      "https://placehold.co/800x500/111/888?text=Dark+Souls+Boss",
+      "https://placehold.co/800x500/0d0d0d/999?text=Dark+Souls+World"
+    ],
+    "annee": 2011,
+    "genre": "Action-RPG / Soulslike",
+    "studio": "FromSoftware",
+    "plateforme": "PC / PlayStation / Xbox",
+    "note": 5,
+    "musique": "assets/audio/darksouls.mp3",
+    "musique_titre": "Gwyn, Lord of Cinder"
+  },
+  {
+    "id": 6,
+    "titre": "Attack on Titan",
+    "categories": ["anime"],
+    "tagline": "L'humanité au bord de l'extinction.",
+    "description": "Un anime épique sur la survie de l'humanité face à des géants dévorants, et bien plus encore.",
+    "description_longue": "Attack on Titan est l'anime le plus ambitieux de sa génération. Ce qui commence comme un récit de survie brutal se révèle être une réflexion profonde sur la guerre, la liberté, la nature humaine et les cycles de violence.\n\nHajime Isayama a construit un monde d'une complexité rare — chaque révélation change radicalement notre perception de ce qu'on a vu avant. L'animation du studio MAPPA dans les dernières saisons atteint des sommets absolus.\n\nL'arc final divise, mais pour moi il est cohérent avec toute la thématique de la série. Eren Yeager reste l'un des personnages les plus fascinants et les plus complexes de toute l'animation japonaise.",
+    "image": "https://placehold.co/1200x700/1a0030/9b59b6?text=Attack+on+Titan",
+    "galerie": [
+      "https://placehold.co/800x500/1a0030/9b59b6?text=AOT+Titans",
+      "https://placehold.co/800x500/200040/8e44ad?text=AOT+Survey+Corps"
+    ],
+    "annee": 2013,
+    "genre": "Action / Dark Fantasy",
+    "studio": "Wit Studio / MAPPA",
+    "auteur": "Hajime Isayama",
+    "note": 5,
+    "musique": "assets/audio/aot.mp3",
+    "musique_titre": "Guren no Yumiya"
+  }
+]
