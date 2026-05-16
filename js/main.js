@@ -71,7 +71,7 @@ const $audioClose   = document.getElementById('audio-close');
 // =====================================================
 document.addEventListener('DOMContentLoaded', async () => {
     try {
-        const res = await fetch('./data.json');
+        const res = await fetch('./js/data.json');
         state.data = await res.json();
     } catch (e) {
         console.error('Impossible de charger data.json :', e);
