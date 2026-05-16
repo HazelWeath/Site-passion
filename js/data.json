@@ -17,7 +17,7 @@
     "studio": "Capcom",
     "plateforme": "PC / PlayStation / Xbox",
     "note": 5,
-    "musique": "assets/audio/re_theme.mp3",
+    "musique": "assets/aud/re_theme.mp3",
     "musique_titre": "Save Room Theme — RE2"
   },
   {
@@ -37,7 +37,7 @@
     "studio": "Warner Bros.",
     "auteur": "James Wan",
     "note": 5,
-    "musique": "assets/audio/conjuring.mp3",
+    "musique": "assets/aud/conjuring.mp3",
     "musique_titre": "Annabelle's Theme"
   },
   {
@@ -57,7 +57,7 @@
     "studio": "Studio MDHR",
     "plateforme": "PC / Nintendo Switch / Xbox",
     "note": 5,
-    "musique": "assets/audio/cuphead.mp3",
+    "musique": "assets/aud/cuphead.mp3",
     "musique_titre": "Floral Fury"
   },
   {
@@ -77,7 +77,7 @@
     "studio": "Lionsgate",
     "auteur": "James Wan",
     "note": 4,
-    "musique": "assets/audio/saw.mp3",
+    "musique": "assets/aud/saw.mp3",
     "musique_titre": "Hello Zepp"
   },
   {
@@ -97,7 +97,7 @@
     "studio": "FromSoftware",
     "plateforme": "PC / PlayStation / Xbox",
     "note": 5,
-    "musique": "assets/audio/darksouls.mp3",
+    "musique": "assets/aud/darksouls.mp3",
     "musique_titre": "Gwyn, Lord of Cinder"
   },
   {
@@ -117,7 +117,7 @@
     "studio": "Wit Studio / MAPPA",
     "auteur": "Hajime Isayama",
     "note": 5,
-    "musique": "assets/audio/aot.mp3",
+    "musique": "assets/aud/aot.mp3",
     "musique_titre": "Guren no Yumiya"
   }
 ]
