@@ -137,6 +137,19 @@ function setupNav() {
         else navigate('home');
     });
     $navHome.addEventListener('click', () => navigate('home'));
+
+    // Toggle thème clair / sombre
+    const $toggle = document.getElementById('theme-toggle');
+    const savedTheme = localStorage.getItem('theme') || 'dark';
+    if (savedTheme === 'light') {
+        document.documentElement.classList.add('light');
+        $toggle.textContent = '☀️';
+    }
+    $toggle.addEventListener('click', () => {
+        const isLight = document.documentElement.classList.toggle('light');
+        $toggle.textContent = isLight ? '☀️' : '🌙';
+        localStorage.setItem('theme', isLight ? 'light' : 'dark');
+    });
 }
 
 // =====================================================
