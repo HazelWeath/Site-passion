@@ -3,25 +3,184 @@
     "id": 1,
     "titre": "Resident Evil",
     "categories": ["horreur", "jeux-video"],
-    "tagline": "Survie. Horreur. Adrénaline.",
-    "description": "Un pionnier du survival-horror où la survie dépend de votre gestion des ressources.",
-    "description_longue": "Resident Evil est bien plus qu'un jeu vidéo — c'est une expérience fondatrice du genre survival-horror. Dès les premières minutes dans le manoir Spencer, l'atmosphère oppressante, les sons ambiants et la gestion tendue des ressources installent une tension constante.\n\nChaque couloir cache une menace, chaque balle compte. La série m'a appris ce que signifie vraiment avoir peur devant un écran, et les remakes modernes prouvent que cette formule reste intemporelle.\n\nUn univers que je reviens explorer encore et encore, pour ses personnages, son lore dense et ses moments de pure terreur.",
-    "image": "https://placehold.co/1200x700/1a0000/c0392b?text=Resident+Evil",
+    "tagline": "L'origine. Le manoir. La peur à l'état pur.",
+    "description": "Le premier opus qui a fondé le genre survival-horror et posé les bases de toute une saga.",
+    "description_longue": "Resident Evil premier du nom est une œuvre fondatrice. Quand tu pénètres pour la première fois dans le manoir Spencer en 1996, tu découvres quelque chose d'inédit : un jeu qui te met vraiment en danger, où chaque balle compte, chaque porte franchie peut être la dernière.\n\nL'atmosphère est oppressante, les angles de caméra fixes créent une tension permanente, et les zombies — même lents — inspirent une peur viscérale parce que tu n'as pas les ressources pour tous les affronter.\n\nLe Remake de 2002 a magnifié tout ça avec une DA sublime et des Crimson Heads qui redéfinissent le mot « stress ». Incontournable.",
+    "image": "https://placehold.co/1200x700/1a0000/cc3333?text=Resident+Evil+1",
     "galerie": [
-      "https://placehold.co/800x500/1a0000/c0392b?text=RE+Manoir",
-      "https://placehold.co/800x500/2d0505/e74c3c?text=RE+Zombies",
-      "https://placehold.co/800x500/0d0000/c0392b?text=RE+Boss"
+      "https://placehold.co/800x500/1a0000/cc3333?text=RE1+Manoir",
+      "https://placehold.co/800x500/2d0505/e74c3c?text=RE1+Zombies"
     ],
     "annee": 1996,
     "genre": "Survival-Horror",
     "studio": "Capcom",
-    "plateforme": "PC / PlayStation / Xbox",
+    "plateforme": "PC / PlayStation / GameCube",
     "note": 5,
-    "musique": "assets/aud/re_theme.mp3",
-    "musique_titre": "Save Room Theme — RE2"
+    "musique": "./assets/aud/re1_theme.mp3",
+    "musique_titre": "Moonlight Sonata — RE1"
   },
   {
     "id": 2,
+    "titre": "Resident Evil 2",
+    "categories": ["horreur", "jeux-video"],
+    "tagline": "Raccoon City. Leon. Claire. Et M. X dans le couloir.",
+    "description": "Le chef-d'œuvre de la série. Deux héros, une ville en ruines, et une tension qui ne redescend jamais.",
+    "description_longue": "Resident Evil 2 est souvent cité comme le sommet absolu de la saga, et difficile de ne pas être d'accord. Raccoon City en flammes, deux personnages aux histoires croisées, une police department labyrinthique remplie de zombies et de secrets.\n\nMais ce qui marque vraiment, c'est M. X — le Tyrant qui te pourchasse à travers les couloirs. On entend ses pas résonner avant de le voir, et chaque bruit te glace le sang. C'est un des moments de terreur les plus purs du jeu vidéo.\n\nLe Remake de 2019 a parfaitement modernisé tout ça, avec un rendu graphique époustouflant et une tension portée à son paroxysme. Un must absolu.",
+    "image": "https://placehold.co/1200x700/1a0000/cc3333?text=Resident+Evil+2",
+    "galerie": [
+      "https://placehold.co/800x500/1a0000/cc3333?text=RE2+Leon",
+      "https://placehold.co/800x500/2d0505/e74c3c?text=RE2+Tyrant"
+    ],
+    "annee": 1998,
+    "genre": "Survival-Horror",
+    "studio": "Capcom",
+    "plateforme": "PC / PlayStation / Nintendo 64",
+    "note": 5,
+    "musique": "./assets/aud/re2_theme.mp3",
+    "musique_titre": "Save Room Theme — RE2"
+  },
+  {
+    "id": 3,
+    "titre": "Resident Evil 3",
+    "categories": ["horreur", "jeux-video"],
+    "tagline": "Nemesis. Trois lettres. Une terreur permanente.",
+    "description": "Jill Valentine traquée dans Raccoon City par l'impitoyable Nemesis, une entité qui ne s'arrête jamais.",
+    "description_longue": "Resident Evil 3 pousse le concept de l'ennemi implacable encore plus loin que M. X. Nemesis est plus rapide, plus agressif, et peut surgir à n'importe quel moment — même dans des zones qu'on pensait sûres. Cette imprévisibilité est source d'une pression constante et unique.\n\nJill Valentine est une héroïne charismatique qui apporte de la personnalité à une histoire plus directe et nerveuse que les opus précédents. Raccoon City, à quelques heures de son annihilation totale, n'a jamais semblé aussi désespérée.\n\nLe Remake de 2020 est plus court mais intensément rythmé, presque un film interactif. Certains lui reprochent des coupes, mais l'expérience reste solide.",
+    "image": "https://placehold.co/1200x700/1a0000/cc3333?text=Resident+Evil+3",
+    "galerie": [
+      "https://placehold.co/800x500/1a0000/cc3333?text=RE3+Jill",
+      "https://placehold.co/800x500/2d0505/e74c3c?text=RE3+Nemesis"
+    ],
+    "annee": 1999,
+    "genre": "Survival-Horror",
+    "studio": "Capcom",
+    "plateforme": "PC / PlayStation",
+    "note": 4,
+    "musique": "./assets/aud/re3_theme.mp3",
+    "musique_titre": "Nemesis Encounter — RE3"
+  },
+  {
+    "id": 4,
+    "titre": "Resident Evil — Code Veronica",
+    "categories": ["horreur", "jeux-video"],
+    "tagline": "Claire reprend l'enquête. L'horreur continue.",
+    "description": "Souvent oublié, Code Veronica est pourtant l'un des RE les plus ambitieux et les plus difficiles de la saga.",
+    "description_longue": "Code Veronica est l'épisode le plus injustement sous-estimé de la série. Sorti sur Dreamcast puis PlayStation 2, il poursuit directement l'histoire de Claire Redfield après Raccoon City et propose les environnements les plus variés de toute la saga jusqu'alors : une prison insulaire, une base enneigée, une forêt tropicale.\n\nLes Wesker — Alfred et Alexia — sont deux des antagonistes les plus mémorables de la franchise. L'écriture est plus théâtrale, presque opératique, et ça fonctionne très bien.\n\nLa difficulté est redoutable et la gestion des ressources atteint son niveau le plus exigeant. Pour les fans de la vieille école, c'est un monument.",
+    "image": "https://placehold.co/1200x700/1a0000/cc3333?text=RE+Code+Veronica",
+    "galerie": [
+      "https://placehold.co/800x500/1a0000/cc3333?text=CV+Claire",
+      "https://placehold.co/800x500/2d0505/e74c3c?text=CV+Wesker"
+    ],
+    "annee": 2000,
+    "genre": "Survival-Horror",
+    "studio": "Capcom",
+    "plateforme": "Dreamcast / PlayStation 2",
+    "note": 4,
+    "musique": "./assets/aud/re4cv_theme.mp3",
+    "musique_titre": "Alexia's Theme — Code Veronica"
+  },
+  {
+    "id": 5,
+    "titre": "Resident Evil 4",
+    "categories": ["horreur", "jeux-video"],
+    "tagline": "Leon en Espagne. La saga change de visage.",
+    "description": "RE4 réinvente complètement la formule et devient l'un des jeux les plus influents de l'histoire du medium.",
+    "description_longue": "Resident Evil 4 est une révolution. En 2005, Capcom prend le risque de tout changer : caméra par-dessus l'épaule, action plus présente, humour décalé, Europe médiévale. Et ça marche au-delà de toute espérance.\n\nLeon S. Kennedy affronte les Los Ganados — des humains infectés bien plus rapides et organisés que de simples zombies — dans des villages, châteaux et installations militaires d'une variété remarquable. Chaque chapitre réserve une surprise.\n\nL'équilibre entre action et tension reste parfait, et le Merchant avec ses « Whaddaya buyin' » est devenu une icône culturelle. Le Remake de 2023 est lui aussi excellent. RE4 original reste l'un des meilleurs jeux jamais faits.",
+    "image": "https://placehold.co/1200x700/1a0000/cc3333?text=Resident+Evil+4",
+    "galerie": [
+      "https://placehold.co/800x500/1a0000/cc3333?text=RE4+Leon",
+      "https://placehold.co/800x500/2d0505/e74c3c?text=RE4+Merchant"
+    ],
+    "annee": 2005,
+    "genre": "Survival-Horror / Action",
+    "studio": "Capcom",
+    "plateforme": "PC / PlayStation / Xbox / GameCube",
+    "note": 5,
+    "musique": "./assets/aud/re5_theme.mp3",
+    "musique_titre": "Merchant Theme — RE4"
+  },
+  {
+    "id": 6,
+    "titre": "Resident Evil 5",
+    "categories": ["horreur", "jeux-video"],
+    "tagline": "Chris en Afrique. La coopération avant tout.",
+    "description": "Plus orienté action et coopératif, RE5 reste une expérience intense et plaisante à deux joueurs.",
+    "description_longue": "Resident Evil 5 est l'épisode qui divise le plus la communauté, et on comprend pourquoi : il tire clairement vers le jeu d'action au détriment de l'horreur pure. Mais ce serait injuste de ne voir que ça.\n\nChris Redfield au Kijuju, accompagné de Sheva Alomar, propose une aventure spectaculaire, visuellement généreuse et très satisfaisante à jouer en coopération. Le boss final est l'un des plus cinématographiques de la saga.\n\nL'Uroboros, Wesker en antagoniste ultime, et l'arc narratif sur les origines du programme Umbrella rendent cet épisode essentiel pour comprendre la mythologie de la série. Pas le meilleur RE, mais un très bon jeu.",
+    "image": "https://placehold.co/1200x700/1a0000/cc3333?text=Resident+Evil+5",
+    "galerie": [
+      "https://placehold.co/800x500/1a0000/cc3333?text=RE5+Chris",
+      "https://placehold.co/800x500/2d0505/e74c3c?text=RE5+Wesker"
+    ],
+    "annee": 2009,
+    "genre": "Action / Survival-Horror",
+    "studio": "Capcom",
+    "plateforme": "PC / PlayStation / Xbox",
+    "note": 3,
+    "musique": "./assets/aud/re6_theme.mp3",
+    "musique_titre": "Savanna Theme — RE5"
+  },
+  {
+    "id": 7,
+    "titre": "Resident Evil 6",
+    "categories": ["horreur", "jeux-video"],
+    "tagline": "Trois campagnes. Trop d'action. Mais quand même.",
+    "description": "L'épisode le plus ambitieux et le plus critiqué — trois histoires en parallèle pour une saga au bord du gouffre.",
+    "description_longue": "Resident Evil 6 est l'épisode le plus controversé de la série, et il faut l'admettre : il s'est éloigné trop loin de ses racines. Trois campagnes parallèles (Leon, Chris, Jake), des QTE à tout va, une action débordante — l'horreur a quasiment disparu.\n\nPourtant, ce serait un mensonge de dire qu'il n'y a rien à sauver. La campagne de Leon tente de retrouver l'atmosphère des premiers épisodes avec succès partiel. Jake Muller est un personnage attachant. Et certaines séquences de boss sont visuellement impressionnantes.\n\nC'est l'épisode qui a forcé Capcom à reconsidérer toute sa direction artistique, ce qui nous a donné RE7 et Village. En ce sens, RE6 a une importance historique dans la saga.",
+    "image": "https://placehold.co/1200x700/1a0000/cc3333?text=Resident+Evil+6",
+    "galerie": [
+      "https://placehold.co/800x500/1a0000/cc3333?text=RE6+Leon",
+      "https://placehold.co/800x500/2d0505/e74c3c?text=RE6+Chris"
+    ],
+    "annee": 2012,
+    "genre": "Action / Survival-Horror",
+    "studio": "Capcom",
+    "plateforme": "PC / PlayStation / Xbox",
+    "note": 3,
+    "musique": "./assets/aud/re7_theme.mp3",
+    "musique_titre": "Main Theme — RE6"
+  },
+  {
+    "id": 8,
+    "titre": "Resident Evil 7 — Biohazard",
+    "categories": ["horreur", "jeux-video"],
+    "tagline": "Un reboot total. Première personne. Terreur absolue.",
+    "description": "RE7 opère un virage à 180° et renoue avec la terreur viscérale dans une maison de Louisiane cauchemardesque.",
+    "description_longue": "Resident Evil 7 est un des jeux qui m'a le plus effrayé. En passant à la vue à la première personne, Capcom réinvente complètement l'expérience. Ethan Winters arrive dans la plantation Baker pour retrouver sa femme disparue, et ce qui l'attend dépasse tout ce qu'il aurait pu imaginer.\n\nLa famille Baker est terrifiante de la manière la plus humaine qui soit — des gens qui ont perdu leur humanité mais gardent des restes de personnalité. Jack Baker qui defonce les murs en criant « Welcome to the family, son » reste un des moments les plus marquants du jeu vidéo moderne.\n\nL'atmosphère de maison hantée, la gestion des ressources retrouvée, le level design organique et l'horreur corporelle sont portés à leur paroxysme. Chef-d'œuvre.",
+    "image": "https://placehold.co/1200x700/1a0000/cc3333?text=Resident+Evil+7",
+    "galerie": [
+      "https://placehold.co/800x500/1a0000/cc3333?text=RE7+Baker",
+      "https://placehold.co/800x500/2d0505/e74c3c?text=RE7+Plantation"
+    ],
+    "annee": 2017,
+    "genre": "Survival-Horror FPS",
+    "studio": "Capcom",
+    "plateforme": "PC / PlayStation / Xbox",
+    "note": 5,
+    "musique": "./assets/aud/re8_theme.mp3",
+    "musique_titre": "Go Tell Aunt Rhody — RE7"
+  },
+  {
+    "id": 9,
+    "titre": "Resident Evil 8 — Village",
+    "categories": ["horreur", "jeux-video"],
+    "tagline": "Un village. Une mère de famille de 2m80. Du fromage.",
+    "description": "Village mélange horreur atmosphérique et action débridée dans un décor est-européen magnifique.",
+    "description_longue": "Resident Evil Village est un jeu de contrastes fascinants. D'un côté, une ambiance gothique magnifique, un village sous la neige, un château somptueux — de l'autre, une action progressivement plus présente qui rappelle les heures de gloire de RE4.\n\nDame Dimitrescu est devenue une icône culturelle, et pour cause : son introduction dans le château est l'une des meilleures séquences de jeu vidéo de ces dernières années. Mais l'opus réserve bien d'autres surprises dans ses différents segments, chacun avec une ambiance distincte.\n\nEthan Winters conclut son arc narratif d'une manière émotionnellement forte, et les bases posées pour la suite de la saga sont enthousiasmantes. Un opus ambitieux qui assume totalement sa dualité.",
+    "image": "https://placehold.co/1200x700/1a0000/cc3333?text=Resident+Evil+Village",
+    "galerie": [
+      "https://placehold.co/800x500/1a0000/cc3333?text=RE8+Village",
+      "https://placehold.co/800x500/2d0505/e74c3c?text=RE8+Dimitrescu"
+    ],
+    "annee": 2021,
+    "genre": "Survival-Horror / Action FPS",
+    "studio": "Capcom",
+    "plateforme": "PC / PlayStation / Xbox",
+    "note": 5,
+    "musique": "./assets/aud/re9_theme.mp3",
+    "musique_titre": "Village of Shadows — RE8"
+  },
+  {
+    "id": 10,
     "titre": "Conjuring",
     "categories": ["horreur", "film"],
     "tagline": "Basé sur des faits réels. Impossible à oublier.",
@@ -37,11 +196,11 @@
     "studio": "Warner Bros.",
     "auteur": "James Wan",
     "note": 5,
-    "musique": "assets/aud/conjuring.mp3",
+    "musique": "./assets/aud/conjuring.mp3",
     "musique_titre": "Annabelle's Theme"
   },
   {
-    "id": 3,
+    "id": 11,
     "titre": "Cuphead",
     "categories": ["jeux-video"],
     "tagline": "Art des années 30. Difficulté de l'enfer.",
@@ -57,67 +216,67 @@
     "studio": "Studio MDHR",
     "plateforme": "PC / Nintendo Switch / Xbox",
     "note": 5,
-    "musique": "assets/aud/cuphead.mp3",
+    "musique": "./assets/aud/cuphead.mp3",
     "musique_titre": "Floral Fury"
   },
   {
-    "id": 4,
-    "titre": "Saw",
+    "id": 12,
+    "titre": "Saw — La Saga",
     "categories": ["horreur", "film"],
     "tagline": "Veux-tu jouer à un jeu ?",
-    "description": "Une franchise de torture mentale qui a redéfini l'horreur psychologique au cinéma.",
-    "description_longue": "Saw est une saga à part dans l'univers de l'horreur. Plus qu'un simple film gore, le premier opus est un véritable thriller psychologique — deux hommes enchaînés dans une salle, un cadavre entre eux, et une horloge qui tourne. La mise en scène est pauvre, le budget ridicule, et pourtant l'impact est total.\n\nCe qui me plaît dans Saw, c'est l'intelligence des pièges et la mécanique narrative. Chaque film est un puzzle dont les pièces s'emboîtent avec les épisodes précédents. C'est une construction scénaristique unique dans le genre.\n\nLe personnage de John Kramer (Jigsaw) est l'un des antagonistes les plus fascinants du cinéma d'horreur — pas un monstre, mais un homme avec une philosophie tordue et une certaine cohérence interne.",
-    "image": "https://placehold.co/1200x700/0a0a00/c0392b?text=Saw",
+    "description": "Dix films, un seul Jigsaw. La franchise de torture psychologique la plus construite du cinéma d'horreur.",
+    "description_longue": "Saw est une saga à part dans l'univers de l'horreur. Plus qu'un simple film gore, le premier opus est un véritable thriller psychologique — deux hommes enchaînés dans une salle, un cadavre entre eux, et une horloge qui tourne. La mise en scène est pauvre, le budget ridicule, et pourtant l'impact est total.\n\nCe qui rend la franchise unique, c'est sa construction narrative sur dix films. Chaque épisode révèle de nouveaux flashbacks, de nouvelles couches à l'histoire de John Kramer — le Jigsaw. Les pièces s'emboîtent entre les films avec une cohérence que peu de franchises peuvent revendiquer.\n\nJohn Kramer n'est pas un monstre. C'est un homme avec une philosophie tordue mais interne­ment cohérente : forcer ses victimes à se battre pour vivre. Cette profondeur psychologique, rare dans le genre, est ce qui m'a accroché à la saga bien au-delà du gore.",
+    "image": "https://placehold.co/1200x700/0a0a00/c0392b?text=Saw+Saga",
     "galerie": [
-      "https://placehold.co/800x500/0d0000/c0392b?text=Saw+Piege",
+      "https://placehold.co/800x500/0d0000/c0392b?text=Saw+Piège",
       "https://placehold.co/800x500/1a0000/e74c3c?text=Saw+Jigsaw"
     ],
     "annee": 2004,
-    "genre": "Horreur / Thriller",
+    "genre": "Horreur / Thriller psychologique",
     "studio": "Lionsgate",
-    "auteur": "James Wan",
+    "auteur": "James Wan (orig.)",
     "note": 4,
-    "musique": "assets/aud/saw.mp3",
-    "musique_titre": "Hello Zepp"
+    "musique": "./assets/aud/saw.mp3",
+    "musique_titre": "Hello Zepp — Saw I"
   },
   {
-    "id": 5,
-    "titre": "Dark Souls",
-    "categories": ["jeux-video"],
-    "tagline": "Mourir. Apprendre. Recommencer. Vaincre.",
-    "description": "L'action-RPG qui redéfinit le mot défi et récompense la persévérance comme aucun autre.",
-    "description_longue": "Dark Souls n'est pas un jeu, c'est une philosophie. FromSoftware a créé quelque chose d'unique : un monde qui ne vous prend pas par la main, qui ne vous explique rien, et qui attend que vous fassiez l'effort de le comprendre.\n\nChaque mort est un enseignement. Chaque boss vaincu est une victoire personnelle, acquise à la sueur du front. On ne progresse pas par chance dans Dark Souls, on progresse parce qu'on a appris, mémorisé, adapté.\n\nL'univers en lui-même est une merveille de game design — interconnecté, cohérent, mystérieux. Le lore se découvre en fragment à travers les descriptions d'objets et les dialogues cryptiques. Une œuvre dense et unique.",
-    "image": "https://placehold.co/1200x700/0d0d0d/777?text=Dark+Souls",
-    "galerie": [
-      "https://placehold.co/800x500/111/888?text=Dark+Souls+Boss",
-      "https://placehold.co/800x500/0d0d0d/999?text=Dark+Souls+World"
-    ],
-    "annee": 2011,
-    "genre": "Action-RPG / Soulslike",
-    "studio": "FromSoftware",
-    "plateforme": "PC / PlayStation / Xbox",
-    "note": 5,
-    "musique": "assets/aud/darksouls.mp3",
-    "musique_titre": "Gwyn, Lord of Cinder"
-  },
-  {
-    "id": 6,
-    "titre": "Attack on Titan",
+    "id": 13,
+    "titre": "Code Geass",
     "categories": ["anime"],
-    "tagline": "L'humanité au bord de l'extinction.",
-    "description": "Un anime épique sur la survie de l'humanité face à des géants dévorants, et bien plus encore.",
-    "description_longue": "Attack on Titan est l'anime le plus ambitieux de sa génération. Ce qui commence comme un récit de survie brutal se révèle être une réflexion profonde sur la guerre, la liberté, la nature humaine et les cycles de violence.\n\nHajime Isayama a construit un monde d'une complexité rare — chaque révélation change radicalement notre perception de ce qu'on a vu avant. L'animation du studio MAPPA dans les dernières saisons atteint des sommets absolus.\n\nL'arc final divise, mais pour moi il est cohérent avec toute la thématique de la série. Eren Yeager reste l'un des personnages les plus fascinants et les plus complexes de toute l'animation japonaise.",
-    "image": "https://placehold.co/1200x700/1a0030/9b59b6?text=Attack+on+Titan",
+    "tagline": "Le pouvoir de changer le monde. À quel prix ?",
+    "description": "Lelouch vi Britannia lève une armée pour renverser un empire. Stratégie, trahisons, et destin tragique.",
+    "description_longue": "Code Geass est l'anime qui m'a montré ce que le genre pouvait faire de plus ambitieux. Lelouch Lamperouge — prince déchu de l'Empire Britannique — obtient le Geass, un pouvoir qui lui permet d'imposer ses ordres à n'importe qui. Il s'en sert pour fonder la résistance Zero et tenter de libérer le Japon occupé.\n\nCe qui rend la série extraordinaire, c'est la complexité morale absolue de son protagoniste. Lelouch n'est ni héros ni villain — il est humain, brillant, brisé, et prêt à tout pour son objectif. Chaque décision a des conséquences, chaque épisode se termine avec un cliffhanger qui te colle au siège.\n\nLe plan final de Lelouch — le Zero Requiem — reste l'une des conclusions les plus audacieuses et les plus émouvantes de toute l'animation japonaise. Une œuvre qui marque à vie.",
+    "image": "https://placehold.co/1200x700/1a0030/9b59b6?text=Code+Geass",
     "galerie": [
-      "https://placehold.co/800x500/1a0030/9b59b6?text=AOT+Titans",
-      "https://placehold.co/800x500/200040/8e44ad?text=AOT+Survey+Corps"
+      "https://placehold.co/800x500/1a0030/9b59b6?text=Geass+Lelouch",
+      "https://placehold.co/800x500/200040/8e44ad?text=Geass+Zero"
+    ],
+    "annee": 2006,
+    "genre": "Action / Mecha / Drame",
+    "studio": "Sunrise",
+    "auteur": "Gorō Taniguchi",
+    "note": 5,
+    "musique": "./assets/aud/codegeass.mp3",
+    "musique_titre": "Colors — Code Geass OP"
+  },
+  {
+    "id": 14,
+    "titre": "Outlast",
+    "categories": ["horreur", "jeux-video"],
+    "tagline": "Pas d'arme. Pas d'espoir. Juste une caméra.",
+    "description": "Un journaliste s'infiltre dans un asile psychiatrique abandonné. Il n'a qu'une caméra pour voir dans le noir.",
+    "description_longue": "Outlast est une expérience de terreur pure. Miles Upshur, journaliste, pénètre dans l'asile psychiatrique de Mount Massive après avoir reçu un tip anonyme. Ce qu'il trouve à l'intérieur dépasse tout entendement.\n\nLe game design est radical : aucune arme, aucun moyen de se défendre. Tout ce que tu as, c'est une caméra à vision nocturne dont les piles s'épuisent. Courir, se cacher, retenir son souffle — c'est tout ce que tu peux faire face aux patients déchaînés qui te traquent.\n\nL'atmosphère est terrifiante dès les premières minutes. Les couloirs sombres, le sang sur les murs, les corps mutilés, et surtout Chris Walker — un colosse qui apparaît sans prévenir et te poursuit en hurlant — tout est conçu pour te maintenir dans un état de panique permanent. Difficile à recommander aux âmes sensibles, mais inoubliable.",
+    "image": "https://placehold.co/1200x700/050505/cc3333?text=Outlast",
+    "galerie": [
+      "https://placehold.co/800x500/050505/cc3333?text=Outlast+Asile",
+      "https://placehold.co/800x500/0a0000/e74c3c?text=Outlast+Camera"
     ],
     "annee": 2013,
-    "genre": "Action / Dark Fantasy",
-    "studio": "Wit Studio / MAPPA",
-    "auteur": "Hajime Isayama",
+    "genre": "Survival-Horror",
+    "studio": "Red Barrels",
+    "plateforme": "PC / PlayStation / Xbox",
     "note": 5,
-    "musique": "assets/aud/aot.mp3",
-    "musique_titre": "Guren no Yumiya"
+    "musique": "./assets/aud/outlast.mp3",
+    "musique_titre": "Main Theme — Outlast"
   }
 ]
