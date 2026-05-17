@@ -323,6 +323,18 @@ function renderDetail(id) {
                 ${allImgs.length > 1 ? `
                 <p class="detail-section-label">Galerie</p>
                 <div class="detail-gallery">${galleryHTML}</div>` : ''}
+
+                ${item.video ? `
+                <p class="detail-section-label" style="margin-top:40px;">Bande-annonce</p>
+                <div class="detail-video-wrap">
+                    <iframe
+                        src="https://www.youtube.com/embed/${item.video}?rel=0&modestbranding=1"
+                        title="Bande-annonce"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen>
+                    </iframe>
+                </div>` : ''}
             </div>
 
             <aside class="detail-sidebar">

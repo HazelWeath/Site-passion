@@ -1,72 +1,75 @@
 [
   {
     "id": 1,
-    "titre": "Resident Evil",
+    "titre": "Resident Evil — Remake",
     "categories": [
       "horreur",
       "jeux-video"
     ],
-    "tagline": "L'origine. Le manoir. La peur à l'état pur.",
-    "description": "Le premier opus qui a fondé le genre survival-horror et posé les bases de toute une saga.",
-    "description_longue": "Resident Evil premier du nom est une œuvre fondatrice. Quand tu pénètres pour la première fois dans le manoir Spencer en 1996, tu découvres quelque chose d'inédit : un jeu qui te met vraiment en danger, où chaque balle compte, chaque porte franchie peut être la dernière.\n\nL'atmosphère est oppressante, les angles de caméra fixes créent une tension permanente, et les zombies — même lents — inspirent une peur viscérale parce que tu n'as pas les ressources pour tous les affronter.\n\nLe Remake de 2002 a magnifié tout ça avec une DA sublime et des Crimson Heads qui redéfinissent le mot « stress ». Incontournable.",
+    "tagline": "Le manoir Spencer, réinventé. La peur, amplifiée.",
+    "description": "Le Remake de 2002 sublime l'original avec des graphismes saisissants et une nouvelle menace : les Crimson Heads.",
+    "description_longue": "C'est le Remake de 2002 que j'ai fait, pas l'original de 1996 — et il faut dire que Capcom a réalisé quelque chose d'exceptionnel. Sorti sur GameCube, ce remake ne se contente pas de moderniser les graphismes : il restructure le manoir Spencer, enrichit les énigmes, ajoute de nouvelles zones et introduit les Crimson Heads.\n\nLes Crimson Heads, c'est le génie absolu du Remake : si tu ne brûles pas les zombies après les avoir tués, ils se relèvent plus rapides, plus agressifs, avec des griffes. Chaque balle devient un investissement à long terme. La gestion du stress atteint un niveau inédit.\n\nL'atmosphère est magnifique — le manoir semble vivant, les ombres jouent avec les chandelles, et la musique d'ambiance installe une tension permanente. Un des meilleurs remakes de l'histoire du jeu vidéo.",
     "image": "https://placehold.co/1200x700/1a0000/cc3333?text=Resident+Evil+1",
     "galerie": [
       "https://placehold.co/800x500/1a0000/cc3333?text=RE1+Manoir",
       "https://placehold.co/800x500/2d0505/e74c3c?text=RE1+Zombies"
     ],
-    "annee": 1996,
+    "annee": "2002 (Remake)",
     "genre": "Survival-Horror",
     "studio": "Capcom",
-    "plateforme": "PC / PlayStation / GameCube",
+    "plateforme": "GameCube / PC / PlayStation",
     "note": 5,
     "musique": "./assets/aud/re1_theme.mp3",
-    "musique_titre": "Moonlight Sonata — RE1"
+    "musique_titre": "Moonlight Sonata — RE1",
+    "video": "p4WxA1P7GHc"
   },
   {
     "id": 2,
-    "titre": "Resident Evil 2",
+    "titre": "Resident Evil 2 — Remake",
     "categories": [
       "horreur",
       "jeux-video"
     ],
-    "tagline": "Raccoon City. Leon. Claire. Et M. X dans le couloir.",
-    "description": "Le chef-d'œuvre de la série. Deux héros, une ville en ruines, et une tension qui ne redescend jamais.",
-    "description_longue": "Resident Evil 2 est souvent cité comme le sommet absolu de la saga, et difficile de ne pas être d'accord. Raccoon City en flammes, deux personnages aux histoires croisées, une police department labyrinthique remplie de zombies et de secrets.\n\nMais ce qui marque vraiment, c'est M. X — le Tyrant qui te pourchasse à travers les couloirs. On entend ses pas résonner avant de le voir, et chaque bruit te glace le sang. C'est un des moments de terreur les plus purs du jeu vidéo.\n\nLe Remake de 2019 a parfaitement modernisé tout ça, avec un rendu graphique époustouflant et une tension portée à son paroxysme. Un must absolu.",
+    "tagline": "Leon. Claire. Et M. X qui defonce tout sur son passage.",
+    "description": "Le Remake de 2019 modernise le chef-d'œuvre original avec une vue à l'épaule et un M. X encore plus terrifiant.",
+    "description_longue": "Le Remake de Resident Evil 2 sorti en 2019 est tout simplement l'un des meilleurs jeux de la décennie. En passant à la vue à l'épaule façon RE4, Capcom modernise complètement l'expérience sans rien perdre de l'essence de l'original.\n\nRaccoon City en flammes, le commissariat labyrinthique, deux histoires croisées — tout est là, mais magnifié. Et puis il y a M. X. Dans le jeu de 1998, le Tyrant était anecdotique. Dans le Remake, il devient une force de la nature : il défonce les murs, entend tes pas, et ses semelles qui résonnent dans les couloirs te font rebrousser chemin sans même le voir.\n\nLes deux campagnes (Leon A / Claire B) offrent une vraie rejouabilité avec des chemins et objets différents. La direction artistique, le sound design et la tension sont portés à leur maximum. Un remake qui dépasse l'original sur presque tous les points.",
     "image": "https://placehold.co/1200x700/1a0000/cc3333?text=Resident+Evil+2",
     "galerie": [
       "https://placehold.co/800x500/1a0000/cc3333?text=RE2+Leon",
       "https://placehold.co/800x500/2d0505/e74c3c?text=RE2+Tyrant"
     ],
-    "annee": 1998,
+    "annee": "2019 (Remake)",
     "genre": "Survival-Horror",
     "studio": "Capcom",
-    "plateforme": "PC / PlayStation / Nintendo 64",
+    "plateforme": "PC / PlayStation / Xbox",
     "note": 5,
     "musique": "./assets/aud/re2_theme.mp3",
-    "musique_titre": "Save Room Theme — RE2"
+    "musique_titre": "Save Room Theme — RE2 Remake",
+    "video": "zXp9eF12QX0"
   },
   {
     "id": 3,
-    "titre": "Resident Evil 3",
+    "titre": "Resident Evil 3 — Remake",
     "categories": [
       "horreur",
       "jeux-video"
     ],
-    "tagline": "Nemesis. Trois lettres. Une terreur permanente.",
-    "description": "Jill Valentine traquée dans Raccoon City par l'impitoyable Nemesis, une entité qui ne s'arrête jamais.",
-    "description_longue": "Resident Evil 3 pousse le concept de l'ennemi implacable encore plus loin que M. X. Nemesis est plus rapide, plus agressif, et peut surgir à n'importe quel moment — même dans des zones qu'on pensait sûres. Cette imprévisibilité est source d'une pression constante et unique.\n\nJill Valentine est une héroïne charismatique qui apporte de la personnalité à une histoire plus directe et nerveuse que les opus précédents. Raccoon City, à quelques heures de son annihilation totale, n'a jamais semblé aussi désespérée.\n\nLe Remake de 2020 est plus court mais intensément rythmé, presque un film interactif. Certains lui reprochent des coupes, mais l'expérience reste solide.",
+    "tagline": "Jill Valentine contre Nemesis. Plus rapide, plus brutal.",
+    "description": "Le Remake de 2020 propulse Jill dans une Raccoon City modernisée, avec un Nemesis encore plus imprévisible.",
+    "description_longue": "C'est le Remake de 2020 que j'ai fait, et il faut être honnête : il est plus court que le RE2 Remake et fait quelques coupes dans le contenu de l'original. Mais l'expérience qu'il délivre est intense et nerveuse du début à la fin.\n\nJill Valentine est magnifiquement modernisée — combative, déterminée, elle est l'une des meilleures héroïnes de la saga. Carlos Oliveira gagne aussi beaucoup en profondeur par rapport à l'original. Et Nemesis… le Nemesis du Remake est une bête d'une tout autre nature : il mute, il s'adapte, il lance des tentacules à distance.\n\nLa ville de Raccoon City est plus ouverte que dans RE2 Remake, avec des zones à explorer librement avant que Nemesis ne les condamne. Certaines séquences — comme la poursuite d'ouverture — sont parmi les plus spectaculaires de toute la saga. Court mais solide.",
     "image": "https://placehold.co/1200x700/1a0000/cc3333?text=Resident+Evil+3",
     "galerie": [
       "https://placehold.co/800x500/1a0000/cc3333?text=RE3+Jill",
       "https://placehold.co/800x500/2d0505/e74c3c?text=RE3+Nemesis"
     ],
-    "annee": 1999,
+    "annee": "2020 (Remake)",
     "genre": "Survival-Horror",
     "studio": "Capcom",
-    "plateforme": "PC / PlayStation",
+    "plateforme": "PC / PlayStation / Xbox",
     "note": 4,
     "musique": "./assets/aud/re3_theme.mp3",
-    "musique_titre": "Nemesis Encounter — RE3"
+    "musique_titre": "Save Room Theme — RE3 Remake",
+    "video": "3WNy_CdXnMU"
   },
   {
     "id": 4,
@@ -89,7 +92,8 @@
     "plateforme": "PC / PlayStation / Xbox / GameCube",
     "note": 5,
     "musique": "./assets/aud/re4_theme.mp3",
-    "musique_titre": "Merchant Theme — RE4"
+    "musique_titre": "Save Room Theme — RE4",
+    "video": "iMtJdsCrMaI"
   },
   {
     "id": 5,
@@ -112,7 +116,8 @@
     "plateforme": "PC / PlayStation / Xbox",
     "note": 3,
     "musique": "./assets/aud/re5_theme.mp3",
-    "musique_titre": "Savanna Theme — RE5"
+    "musique_titre": "End Chapter Theme — RE5",
+    "video": "Hj9RvfhZnGU"
   },
   {
     "id": 6,
@@ -135,7 +140,8 @@
     "plateforme": "PC / PlayStation / Xbox",
     "note": 3,
     "musique": "./assets/aud/re6_theme.mp3",
-    "musique_titre": "Main Theme — RE6"
+    "musique_titre": "Main Theme — RE6",
+    "video": "pRD5nHLxBzo"
   },
   {
     "id": 7,
@@ -158,7 +164,8 @@
     "plateforme": "PC / PlayStation / Xbox",
     "note": 5,
     "musique": "./assets/aud/re7_theme.mp3",
-    "musique_titre": "Go Tell Aunt Rhody — RE7"
+    "musique_titre": "Save Room Theme — RE7",
+    "video": "mFiKU4YjPO4"
   },
   {
     "id": 8,
@@ -181,7 +188,8 @@
     "plateforme": "PC / PlayStation / Xbox",
     "note": 5,
     "musique": "./assets/aud/re8_theme.mp3",
-    "musique_titre": "Village of Shadows — RE8"
+    "musique_titre": "Save Rool Theme — RE8",
+    "video": "btFclZUXpzA"
   },
   {
     "id": 9,
@@ -204,7 +212,8 @@
     "plateforme": "PC / PS5 / Xbox Series / Switch 2",
     "note": 5,
     "musique": "./assets/aud/re9_theme.mp3",
-    "musique_titre": "Requiem Main Theme — RE9"
+    "musique_titre": "Requiem End Credit — RE9",
+    "video": "9lrThxCoznw"
   },
   {
     "id": 10,
@@ -227,7 +236,8 @@
     "auteur": "James Wan",
     "note": 5,
     "musique": "./assets/aud/conjuring.mp3",
-    "musique_titre": "Annabelle's Theme"
+    "musique_titre": "Annabelle's Theme",
+    "video": "k10ETZ41q5o"
   },
   {
     "id": 11,
@@ -249,7 +259,8 @@
     "plateforme": "PC / Nintendo Switch / Xbox",
     "note": 5,
     "musique": "./assets/aud/cuphead.mp3",
-    "musique_titre": "Floral Fury"
+    "musique_titre": "Floral Fury",
+    "video": "NN-9SQXoi50"
   },
   {
     "id": 12,
@@ -272,7 +283,8 @@
     "auteur": "James Wan (orig.)",
     "note": 4,
     "musique": "./assets/aud/saw.mp3",
-    "musique_titre": "Hello Zepp — Saw I"
+    "musique_titre": "Hello Zepp — Saw I",
+    "video": "S-1QgOMQ-ls"
   },
   {
     "id": 13,
@@ -294,7 +306,8 @@
     "auteur": "Gorō Taniguchi",
     "note": 5,
     "musique": "./assets/aud/codegeass.mp3",
-    "musique_titre": "Colors — Code Geass OP"
+    "musique_titre": "Colors — Code Geass OP",
+    "video": "MfWkGStiXsE"
   },
   {
     "id": 14,
@@ -317,6 +330,7 @@
     "plateforme": "PC / PlayStation / Xbox",
     "note": 5,
     "musique": "./assets/aud/outlast.mp3",
-    "musique_titre": "Main Theme — Outlast"
+    "musique_titre": "Main Theme — Outlast",
+    "video": "019MSmfSFg0"
   }
 ]
