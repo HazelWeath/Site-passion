@@ -69,7 +69,7 @@
     "note": 4,
     "musique": "./assets/aud/re3_theme.mp3",
     "musique_titre": "Save Room Theme — RE3 Remake",
-    "video": "3WNy_CdXnMU"
+    "video": "E4DMgzUaL8o"
   },
   {
     "id": 4,
@@ -93,7 +93,7 @@
     "note": 5,
     "musique": "./assets/aud/re4_theme.mp3",
     "musique_titre": "Save Room Theme — RE4",
-    "video": "iMtJdsCrMaI"
+    "video": "yAVe0A2vQY"
   },
   {
     "id": 5,
@@ -117,7 +117,7 @@
     "note": 4,
     "musique": "./assets/aud/re5_theme.mp3",
     "musique_titre": "End Chapter Theme — RE5",
-    "video": "Hj9RvfhZnGU"
+    "video": "eV7Ffo5TPH4"
   },
   {
     "id": 6,
@@ -141,7 +141,7 @@
     "note": 3,
     "musique": "./assets/aud/re6_theme.mp3",
     "musique_titre": "Main Theme — RE6",
-    "video": "pRD5nHLxBzo"
+    "video": "q2nJnCtEpHE"
   },
   {
     "id": 7,
@@ -165,7 +165,7 @@
     "note": 5,
     "musique": "./assets/aud/re7_theme.mp3",
     "musique_titre": "Save Room Theme — RE7",
-    "video": "mFiKU4YjPO4"
+    "video": "UqtndIhCSVo"
   },
   {
     "id": 8,
@@ -189,7 +189,7 @@
     "note": 5,
     "musique": "./assets/aud/re8_theme.mp3",
     "musique_titre": "Save Rool Theme — RE8",
-    "video": "btFclZUXpzA"
+    "video": "tYniZV5Qo6E"
   },
   {
     "id": 9,
@@ -213,7 +213,7 @@
     "note": 5,
     "musique": "./assets/aud/re9_theme.mp3",
     "musique_titre": "Requiem End Credit — RE9",
-    "video": "9lrThxCoznw"
+    "video": "e2mpfyEcuHI"
   },
   {
     "id": 10,
@@ -307,7 +307,7 @@
     "note": 5,
     "musique": "./assets/aud/codegeass.mp3",
     "musique_titre": "Colors — Code Geass OP",
-    "video": "MfWkGStiXsE"
+    "video": "0vFUS_PuEhY"
   },
   {
     "id": 14,
@@ -331,6 +331,6 @@
     "note": 5,
     "musique": "./assets/aud/outlast.mp3",
     "musique_titre": "Main Theme — Outlast",
-    "video": "019MSmfSFg0"
+    "video": "KZGJPBVWjd8"
   }
 ]
